@@ -22,9 +22,6 @@
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="52" alt="haskell logo" />
   
-</div>
-<img src="https://raw.githubusercontent.com/Grusha52/Grusha52/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grusha52/Grusha52/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grusha52/Grusha52/output/github-contribution-grid-snake.svg">
