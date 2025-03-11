@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img align="right" height="380" src="https://i.imgflip.com/6x7b2m.gif" />
+  <img align="right" height="380" src="https://media1.tenor.com/m/xp16BD0GkDAAAAAC/wmster-white-monster.gif" />
   <img align="left" height="380" src="https://media.tenor.com/EepPdMy2rbAAAAAM/shocked-ishowspeed.gif" />
 </div>
 
